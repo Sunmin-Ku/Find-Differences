@@ -1,5 +1,5 @@
 This code is for automation of finding differences between pictures
-###How to use the code
+#How to use the code
 1. Install Bluestacks to use mobile app called 'Find the Difference'
 2. Enter the app and any stage and then make a fullscreen
 3. Screenshot the whole screen 
